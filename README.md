@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Syed Muhammad Murtaza, full stack developer.
+- 👋 Hi, I’m @Syed Muhammad Murtaza, Computer Engineer.
 - 👀 I’m interested in Data Science, AI & Machine Learning.
-- 🌱 I’m currently learning Python, R and React.js
+- 🌱 I’m currently learning Application of AI in Cyber Security by implementing ML model in Python, R and React.js.
 - 💞️ I’m looking to collaborate on Al-Nafi Team... Zeeshan Usmani & Sana Rasheed
 - 📫 How to reach me ... One can rech me through my email address.
 
